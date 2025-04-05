@@ -6,3 +6,8 @@ Uninformed Search Algorithm
 - BFS
 - DFS
 - DFID
+### Lab-02
+Informed Search Algorithm
+- Best First Serach
+- A*
+  
