@@ -10,4 +10,8 @@ Uninformed Search Algorithm
 Informed Search Algorithm
 - Best First Serach
 - A*
+### Lab-03
+Adversarial Search
+- Minimax algorithm
+- Alpha Beta Pruning
   
