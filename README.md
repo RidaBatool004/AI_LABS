@@ -14,5 +14,5 @@ Informed Search Algorithm
 Adversarial Search
 - Minimax algorithm
 - Alpha Beta Pruning
-  
-  
+### Lab-04
+Genetic Algorithm
